@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cosmopass</string>
+
+    <string name="applogo">TODO</string>
+    <string name="galaxy">TODO</string>
+    <string name="Cosmopass">TextView</string>
+    <string name="cosmopass">Cosmopass</string>
+    <string name="earthim">TextView</string>
+    <string name="wanna_leave_this_blue_dot">Wanna Leave This Blue Dot !!</string>
+    <string name="joinus">Button</string>
+    <string name="join_us_habibi">Join Us Habibi !!</string>
+</resources>
