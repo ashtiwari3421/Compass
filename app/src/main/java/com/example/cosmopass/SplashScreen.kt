@@ -24,7 +24,7 @@ class SplashScreen : AppCompatActivity() {
         // HERE WE ARE TAKING THE REFERENCE OF OUR IMAGE
         // SO THAT WE CAN PERFORM ANIMATION USING THAT IMAGE
         val backgroundImage: ImageView = findViewById(R.id.applogo)
-        val slideAnimation = AnimationUtils.loadAnimation(this, R.anim.slide_slide)
+        val slideAnimation = AnimationUtils.loadAnimation(this, R.anim.top_animation)
         backgroundImage.startAnimation(slideAnimation)
         val Cosmopass: TextView = findViewById(R.id.Cosmopass)
         val textanimation = AnimationUtils.loadAnimation(this, R.anim.slide_slide)

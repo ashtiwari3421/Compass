@@ -14,14 +14,16 @@
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/greg_rakozy_ompaz_dn_9i_unsplash" />
 
     <ImageView
         android:id="@+id/applogo"
-        android:layout_width="248dp"
-        android:layout_height="201dp"
+        android:layout_width="214dp"
+        android:layout_height="169dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="240dp"
         android:layout_marginEnd="163dp"
@@ -30,10 +32,10 @@
         android:translationX="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintVertical_bias="0.052"
         app:srcCompat="@drawable/ufo_lofo_removebg_preview" />
 
     <TextView
@@ -47,8 +49,27 @@
         android:fontFamily="cursive"
         android:text="@string/cosmopass"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="#CDDF2A"
+        android:textColor="#A8CDC5"
         android:textSize="65sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.228"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/cosmovengers"
+        android:layout_width="240dp"
+        android:layout_height="91dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="636dp"
+        android:layout_marginEnd="151dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="@font/bonbon"
+        android:text="by  Cosmovengers"
+        android:textColor="#FDF3F3"
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -7,57 +7,32 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/earthim"
+        android:id="@+id/carlquote"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#0E0D0D"
-        android:contentDescription="@string/earthim"
+        android:contentDescription="@string/carlquote"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/carlquote" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="237dp"
+        android:layout_height="69dp"
+        android:layout_marginStart="83dp"
+        android:layout_marginTop="592dp"
+        android:layout_marginEnd="91dp"
+        android:layout_marginBottom="70dp"
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/city_lights_namerica_8k__1_" />
+        app:srcCompat="@drawable/iss058e027197" />
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="375dp"
-        android:layout_height="198dp"
-        android:layout_marginStart="40dp"
-        android:layout_marginBottom="537dp"
-        android:fontFamily="monospace"
-        android:text="@string/wanna_leave_this_blue_dot"
-        android:textColor="#38B6AB"
-        android:textSize="48sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="249dp"
-        android:layout_height="59dp"
-        android:onClick="join us habibi"
-
-        android:layout_marginStart="81dp"
-        android:layout_marginTop="656dp"
-        android:layout_marginEnd="81dp"
-        android:layout_marginBottom="16dp"
-        android:background="#131313"
-        android:backgroundTint="#131313"
-        android:fontFamily="casual"
-        android:text="@string/join_us_habibi"
-        android:textAlignment="center"
-        android:textAllCaps="false"
-        android:textColor="#D8CA4C"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        android:typeface="normal"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:ignore="TextContrastCheck" />
 </androidx.constraintlayout.widget.ConstraintLayout>
