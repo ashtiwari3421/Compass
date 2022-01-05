@@ -9,6 +9,7 @@ This app is all about the Cosmos, How its really look like.
 
 
 ## 🚀 About us 
+We are a team of Four members . 
 We are so eager to create this app so that anyone can use it smoothly.
 
 
