@@ -22,3 +22,31 @@ but if anyone unable to use it then here are the steps to follow:![148174231-41a
 
 
 ![Screenshot_20220105_122652](https://user-images.githubusercontent.com/77083567/148174256-4a0ad629-4625-4774-8ae7-a2dd319965a0.png)
+
+# Features
+
+- Simple to use
+- Easy to access so many planet in a single App
+
+
+
+## Used By
+
+This App is easy to use anyone can use it.If He or She is curious to know about the Cosmos and their activity .Then this App is going to Fulfill their demands.
+
+
+#FAQ
+
+#### Question 1 Why this app?
+
+Answer 1 Rather then to visit so many websites, You can access in a single App.
+
+#### Question 2 Who can use?
+
+Answer 2 Everyone
+
+
+## Support
+
+For support, you can contact -vijaykumar719585@gmail.com
+
