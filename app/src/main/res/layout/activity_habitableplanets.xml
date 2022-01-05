@@ -4,4 +4,37 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".habitableplanets"/>
+    tools:context=".habitableplanets">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fadeScrollbars="true"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/imageButton13"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/gilese3" />
+
+        <ImageButton
+            android:id="@+id/imageButton14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/gliese163c" />
+
+        <ImageButton
+            android:id="@+id/imageButton15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/hd40307g" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
