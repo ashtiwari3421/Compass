@@ -20,5 +20,5 @@ We make it very simple to use.
 but if anyone unable to use it then here are the steps to follow:![148174231-41afa237-bcce-4693-b4cf-c9d8c942ea63](https://user-images.githubusercontent.com/77083567/148174314-39f1aa82-8a52-4392-8b18-d4e48f837299.png)
 
 
-![Screenshot_20220105_122906](https://user-images.githubusercontent.com/77083567/148174231-41afa237-bcce-4693-b4cf-c9d8c942ea63.png)
+
 ![Screenshot_20220105_122652](https://user-images.githubusercontent.com/77083567/148174256-4a0ad629-4625-4774-8ae7-a2dd319965a0.png)
